@@ -5,9 +5,8 @@
 
 <p align="center"><a href=https://ohbeomseokinfo.straw.page>Straw<a/>
 
-square('./fixtures/logo.png', './images', 32).then(images =><img width="736" height="981" alt="image" src="https://github.com/user-attachments/assets/7ed81675-2a07-4af8-8b76-aed134a4593a" />
-/>
-});
+p align="center"><img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/4c6a8b74-8481-432b-867e-0e2240a87c01" />
+
   
   wip ...ok?
 
