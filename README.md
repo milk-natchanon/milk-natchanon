@@ -5,7 +5,8 @@
 
 <p align="center"><a href=https://ohbeomseokinfo.straw.page>Straw<a/>
 
-<p align="center"><img width="736" height="920" alt="image" src="https://github.com/user-attachments/assets/99be5db0-e4cc-4d8a-80f3-5e7e47fda20b"
+square('./fixtures/logo.png', './images', 32).then(images => {<img width="736" height="981" alt="image" src="https://github.com/user-attachments/assets/09786916-7192-4eb3-8714-de595585aa37" />
+});
   
   wip ...ok?
 
