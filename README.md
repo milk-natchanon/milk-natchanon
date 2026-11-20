@@ -10,4 +10,4 @@
 
 <p align="center"> *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 
-  I am often offtab or afk but int unless name says so
+ <p align="center"> I am often offtab or afk but int unless name says so
