@@ -5,7 +5,7 @@
 
 <p align="center"><a href=https://milknatchanon.straw.page>Straw<a/>
 
-<p align="center"><img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/4c6a8b74-8481-432b-867e-0e2240a87c01" />
+<p align="center"><img<img width="521" height="479" alt="image" src="https://github.com/user-attachments/assets/d9447ff8-a247-4e5d-aedb-0980fea7c057" />
 
   
   wip ...ok?
