@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oh-beomseok&label=Profile%20views&color=FFFFFF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=milk-natchanon&label=Profile%20views&color=#FFB6C1&style=flat" alt="Profile views" />
 </p>
 
 
@@ -10,4 +10,4 @@
 
 <p align="center"> *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 
- <p align="center"> I am often offtab or afk but int unless name says so
+<p align="center">${\textsf{\color{#FFB6C1}Often offtab or afk , C=h unless name says so}}$
