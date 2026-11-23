@@ -10,4 +10,4 @@
 
 <p align="center"> *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚
 
-<p align="center">${\textsf{\color{#FFB6C1}Often offtab or afk , C=h unless name says so}}$
+<p align="center">${\textsf{\color{#FFB6C1}Often offtab or afk , C+h unless name says so}}$
