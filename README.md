@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=milk-natchanon&label=Profile%20views&color=#FFFFFF&style=flat" alt="Profile views" />
-</p>
 
 
 <p align="center"><a href=https://milknatchanon.straw.page>Straw<a/> <a href=https://ajazo.atabook.org>Ata<a/>
