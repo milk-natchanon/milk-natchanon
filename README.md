@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href=https://milknatchanon.straw.page>Straw<a/> <a href=https://willyvann.atabook.org>Ata<a/>
+<p align="center"><a href=https://milknatchanon.straw.page>Straw<a/> <a href=https://willyvann.atabook.org>Ata<a/> <a href=https://pronouns.cc/@Willy_azo>Prns<a/>
 
 <p align="center"> ────୨ৎ────
 <p align="center"><img width="521" height="479" alt="image" src="https://github.com/user-attachments/assets/d9447ff8-a247-4e5d-aedb-0980fea7c057" />
